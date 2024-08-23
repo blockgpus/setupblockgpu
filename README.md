@@ -3,11 +3,7 @@
 1. **Install the .deb package:**
 
    ```bash
-   sudo dpkg -i blockgpu.deb
-   ```
-2. **Run Application**
-   ```
-    sudo apt-get install -f
+   sudo dpkg -i blockgpu_1.0.0_amd64.deb
    ```
 
 # Run the blockgpu application:
