@@ -1,6 +1,11 @@
 # Running `blockgpu.deb` on Linux
 
-1. **Install the .deb package:**
+1. **Remove blockgpu if you have already installed**
+   ```bash
+      sudo dpkg -r blockgpu
+   ``` 
+
+2. **Install the .deb package:**
 
    ```bash
    sudo dpkg -i blockgpu_1.0.0_amd64.deb
